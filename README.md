@@ -1,18 +1,13 @@
-Это мультиплеерная игра с React и Firebase Realtime Database. Каждый игрок представлен цветным квадратиком, которым можно управлять с помощью клавиш W/A/S/D.
+This is a multiplayer game built with React and Firebase Realtime Database. Each player is represented by a colored square that can be controlled using the W/A/S/D keys.
 
----
+Play Online
 
-## Посмотреть игру онлайн
+Open the game in your browser
 
-[Открыть игру в браузере](https://multiplayer-game-55414.web.app)
+How to Run Locally
 
----
-
-## Как запустить локально
-
-1. Установить зависимости:
-
-```bash
+Install dependencies:
 npm install
-Запустить приложение:
+
+Start the application:
 npm start
